@@ -2,12 +2,12 @@
 
 **Status:** Maintained / polishing.
 
-**Next:** deploy + screenshots.
+**Next:** deploy + screenshots (Netlify/Vercel).
 
 **Кратко (30 сек):** одностраничное приложение, которое подтягивает **APOD** (Astronomy Picture of the Day) из публичного NASA API и показывает полноразмерное изображение с заголовком/датой/описанием в боковой панели.
 
 ## Демо / скриншоты
-- Деплой: _добавь ссылку (Netlify)_
+- Деплой: coming soon
 - Скриншоты: `./docs/screenshots/` (главный экран + боковая панель + Lighthouse mobile)
 
 ## Стек
